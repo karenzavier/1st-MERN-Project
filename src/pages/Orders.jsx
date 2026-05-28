@@ -2,8 +2,8 @@ import React from 'react'
 
 const Orders = () => {
   return (
-    <div>
-      
+   <div className="p-10 text-2xl">
+      orders Page Working
     </div>
   )
 }
